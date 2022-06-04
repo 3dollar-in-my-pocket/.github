@@ -1,6 +1,6 @@
 # 가슴속 삼천원
 
-![img.png](https://github.com/3dollar-in-my-pocket/3dollars-in-my-pocket-backend/blob/develop/images/logo.png)
+![img.png](https://github.com/3dollar-in-my-pocket/3dollars-in-my-pocket-backend/blob/develop/docs/logo.png)
 
 ### 프로젝트 설명
 
